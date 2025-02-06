@@ -1,1 +1,1 @@
-## End to End Machine Learning Project with Deployment
+## End to End ML Project with Deployment
